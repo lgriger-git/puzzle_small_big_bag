@@ -1,0 +1,1 @@
+PUZZLE: We have two bags in one are 100 white and 100 black balls, in second one are 200 white and 200 black balls. With the bags we can do one experiment, pick two balls at random from the bag, look at them and put them back We can repeat it indefinetely. Can we find out on the basis of this experiment in which bag is more balls ?
